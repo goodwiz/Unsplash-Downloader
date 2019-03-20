@@ -1,6 +1,6 @@
 # Unspalsh Downloader
 
-An automally tool for download pictures from [unsplash.com](http:\\www.unsplash.com).
+An automally tool for downloading pictures from [unsplash.com](http:\\www.unsplash.com).
 
 ## Contents
 
